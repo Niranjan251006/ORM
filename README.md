@@ -45,6 +45,8 @@ class caradmin(admin.ModelAdmin):
 
 
 ```
+## ENTITY RELATIONSHIP DIAGRAM
+<img width="1076" height="583" alt="er exp 2" src="https://github.com/user-attachments/assets/d39c9b7a-5784-44e7-a6f3-1d040fc8e6ea" />
 
 
 
